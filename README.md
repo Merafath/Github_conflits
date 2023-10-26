@@ -1,2 +1,2 @@
-# Github_conflits
+# Github_conflits REMOTE
 Lorem ipsum
