@@ -1,2 +1,1 @@
-# Github_conflits
-Lorem ipsum
+# Github_conflits LOCAL
